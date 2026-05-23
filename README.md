@@ -4,6 +4,13 @@
 Full-Stack Developer • Software Architecture Enthusiast • Open Source Builder
 </h3>
 
+
+<p align="center">
+  <a href="https://lab.auraria.org">
+    <img src="https://img.shields.io/badge/Portfolio-lab.auraria.org-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
+
 ---
 
 ## 🚀 About Me
