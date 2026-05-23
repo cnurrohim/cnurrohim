@@ -1,17 +1,28 @@
-<h1 align="center">Hi, I'm Rohim 👋</h1>
+<h1 align="center">Hi, I'm Choirul Nurrohim 👋</h1>
 
 <h3 align="center">
-Full-Stack Developer • Software Architecture Enthusiast • Open Source Builder
+Full-Stack Developer
 </h3>
 
 
 <p align="center">
   <a href="https://lab.auraria.org">
-    <img src="https://img.shields.io/badge/Portfolio-lab.auraria.org-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/🌐_Live_Demo-https://lab.auraria.org-2563EB?style=for-the-badge" />
+  </a>
+
+  <a href="https://github.com/cnurrohim/project-liora">
+    <img src="https://img.shields.io/badge/📦_Repository-GitHub-brightgreen?style=for-the-badge&logo=github" />
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/React-TypeScript-61DAFB?style=flat-square&logo=react" />
+  <img src="https://img.shields.io/badge/Hono-Backend-E36002?style=flat-square" />
+  <img src="https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=flat-square&logo=postgresql" />
+  <img src="https://img.shields.io/badge/Docker-Self_Hosted-2496ED?style=flat-square&logo=docker" />
+</p>
+
+
 
 ## 🚀 About Me
 
@@ -29,7 +40,7 @@ Currently focused on:
 I like creating systems from the ground up, including layout engines,
 tab management, permission frameworks, and configurable application platforms.
 
----
+<br/>
 
 ## 🛠 Tech Stack
 
@@ -41,13 +52,12 @@ tab management, permission frameworks, and configurable application platforms.
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-purple?style=for-the-badge&logo=git&logoColor=white" />
 
 </p>
 
----
+<br/>
 
 ## 📌 Featured Projects
 
@@ -69,19 +79,3 @@ A configurable application platform featuring:
 - Permission Overrides
 - Multi-role Switching
 - PostgreSQL Driven
-
----
-
-## 🌱 Currently Exploring
-
-- Software Architecture Patterns
-- Design Systems
-- Multi-language Applications
-- Developer Tooling
-- Open Source Infrastructure
-
----
-
-## 📫 Connect
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/USERNAME)
